@@ -1,1 +1,1 @@
- *.* linguist-language=Solidity
+ *./src linguist-language=Solidity
